@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/Martians/static/css/main.eeb161df.chunk.css",
+    "main.js": "/Martians/static/js/main.4cf60602.chunk.js",
+    "main.js.map": "/Martians/static/js/main.4cf60602.chunk.js.map",
+    "runtime-main.js": "/Martians/static/js/runtime-main.e9faecea.js",
+    "runtime-main.js.map": "/Martians/static/js/runtime-main.e9faecea.js.map",
+    "static/css/2.29c6ae1a.chunk.css": "/Martians/static/css/2.29c6ae1a.chunk.css",
+    "static/js/2.4cd6b946.chunk.js": "/Martians/static/js/2.4cd6b946.chunk.js",
+    "static/js/2.4cd6b946.chunk.js.map": "/Martians/static/js/2.4cd6b946.chunk.js.map",
+    "static/js/3.91dbcdc9.chunk.js": "/Martians/static/js/3.91dbcdc9.chunk.js",
+    "static/js/3.91dbcdc9.chunk.js.map": "/Martians/static/js/3.91dbcdc9.chunk.js.map",
+    "index.html": "/Martians/index.html",
+    "static/css/2.29c6ae1a.chunk.css.map": "/Martians/static/css/2.29c6ae1a.chunk.css.map",
+    "static/css/main.eeb161df.chunk.css.map": "/Martians/static/css/main.eeb161df.chunk.css.map",
+    "static/js/2.4cd6b946.chunk.js.LICENSE.txt": "/Martians/static/js/2.4cd6b946.chunk.js.LICENSE.txt",
+    "static/media/Logo white.8097ca9d.svg": "/Martians/static/media/Logo white.8097ca9d.svg",
+    "static/media/Medium.168f314c.png": "/Martians/static/media/Medium.168f314c.png",
+    "static/media/icon_clyde_white_RGB.a4202270.svg": "/Martians/static/media/icon_clyde_white_RGB.a4202270.svg",
+    "static/media/logo.656b839c.gif": "/Martians/static/media/logo.656b839c.gif",
+    "static/media/main_banner_place_holder.c85eee2d.png": "/Martians/static/media/main_banner_place_holder.c85eee2d.png",
+    "static/media/nft_sample_1.2c42706e.gif": "/Martians/static/media/nft_sample_1.2c42706e.gif",
+    "static/media/secondry_banner_place_holder.499c6098.gif": "/Martians/static/media/secondry_banner_place_holder.499c6098.gif",
+    "static/media/team_member_1.1cf53f43.png": "/Martians/static/media/team_member_1.1cf53f43.png",
+    "static/media/team_member_2.576bbcbd.png": "/Martians/static/media/team_member_2.576bbcbd.png",
+    "static/media/team_member_3.a27c4167.png": "/Martians/static/media/team_member_3.a27c4167.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e9faecea.js",
+    "static/css/2.29c6ae1a.chunk.css",
+    "static/js/2.4cd6b946.chunk.js",
+    "static/css/main.eeb161df.chunk.css",
+    "static/js/main.4cf60602.chunk.js"
+  ]
+}
