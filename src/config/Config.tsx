@@ -48,8 +48,8 @@ const Config = {
       textRight: 'Community vote on purchase of NFT collectible created by a a young entrepreneur (discord will be loaded with information and education around the collectible— why its valuable, rarity relevances, token utility, etc)'
     },
     {
-      textLeft: '50% Solana Collection sold out!',
-      textRight: 'IRL networking party to celebrate whitelist backers and announce Ethereum minting CHARITY: 10k donation to Save the Children'
+      textLeft: '50%',
+      textRight: 'Solana Collection sold out! IRL networking party to celebrate whitelist backers and announce Ethereum minting CHARITY: 10k donation to Save the Children'
     },
     {
       textLeft: '60%',
