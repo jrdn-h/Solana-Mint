@@ -28,7 +28,7 @@ const Config = {
   },
   story: {
     title: 'About',
-    text: 'Each MetaMartian NFT will be used as an exclusive access pass— to our community discord (unlockable content) AND irl events involving the innovations in blockchain technology, software, and coding. In the discord, Martians will be granted access to groups that empower youth creatives, and give a platform for our founders to educate and provide tutorials. These tutorials will allow you to create your own collection, code your own contract, and ultimately create your own community. Mint a a MetaMartian and join the youth movement of creators!'
+    text: 'Each MetaMartian NFT will be used as an exclusive access pass— to our community discord (unlockable content) AND irl events involving the innovations in blockchain technology, software, and coding. In the Discord, Martians will be granted access to groups that empower youth creatives, and give a platform for our founders to educate and provide tutorials. These tutorials will allow you to create your own collection, code your own contract, and ultimately create your own community. Mint a a MetaMartian and join the youth movement of creators!'
   },
   roadMap: [
     {
@@ -37,19 +37,19 @@ const Config = {
     },
     {
       textLeft: '20%',
-      textRight: 'Smart Contract tutorial video release (Discord) Bonus: uploading the collection to the blockchain'
+      textRight: 'Candy Machine tutorial video release (Discord) Bonus: uploading the collection to the blockchain'
     },
     {
       textLeft: '30%',
-      textRight: 'IRL networking event: location TBD '
+      textRight: 'IRL networking event: location TBD Bonus: Solana landing page tutorial release (Discord)'
     },
     {
       textLeft: '40%',
       textRight: 'Community vote on purchase of NFT collectible created by a a young entrepreneur (discord will be loaded with information and education around the collectible— why its valuable, rarity relevances, token utility, etc)'
     },
     {
-      textLeft: '50%',
-      textRight: 'IRL networking party to celebrate whitelist backers and Ethereum minting CHARITY: 10k donation to Save the Children'
+      textLeft: '50% Solana Collection sold out!',
+      textRight: 'IRL networking party to celebrate whitelist backers and announce Ethereum minting CHARITY: 10k donation to Save the Children'
     },
     {
       textLeft: '60%',
@@ -61,7 +61,7 @@ const Config = {
     },
     {
       textLeft: '80%',
-      textRight: 'How to make a landing page, build a community, and deploy a contract tutorial (Discord)'
+      textRight: 'How to build a community Bonus: Generate metadata, deploy a smart contract, and create a landing page for Ethereum tutorial (Discord)'
     },
     {
       textLeft: '90%',
