@@ -5,6 +5,8 @@ import nft1 from '../images/nft/nft_sample_1.gif';
 import teamMember1 from '../images/team/team_member_1.png';
 import teamMember2 from '../images/team/team_member_2.png';
 import teamMember3 from '../images/team/team_member_3.png';
+import teamMember4 from '../images/team/team_member_4.png';
+import teamMember5 from '../images/team/team_member_5.png';
 import twitterLogo from '../images/twitter/Logo white.svg';
 import discordLogo from '../images/discord/icon_clyde_white_RGB.svg';
 import MediumLogo from '../images/discord/Medium.png';
@@ -88,6 +90,20 @@ const Config = {
     {
       teamMemberImage: teamMember3,
       teamMemberName: "Anthony",
+      teamMemberLink: "https://www.instagram.com/anthony_ranaudo/",
+      teamMemberTitle: "Creative Director",
+      teamMemberDescription: "Founder of Cards and Culture"
+    },
+    {
+      teamMemberImage: teamMember4,
+      teamMemberName: "Brandie",
+      teamMemberLink: "https://www.instagram.com/anthony_ranaudo/",
+      teamMemberTitle: "Creative Director",
+      teamMemberDescription: "Founder of Cards and Culture"
+    },
+    {
+      teamMemberImage: teamMember5,
+      teamMemberName: "Vito",
       teamMemberLink: "https://www.instagram.com/anthony_ranaudo/",
       teamMemberTitle: "Creative Director",
       teamMemberDescription: "Founder of Cards and Culture"
