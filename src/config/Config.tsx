@@ -49,7 +49,7 @@ const Config = {
     },
     {
       textLeft: '50%',
-      textRight: 'Solana Collection sold out! IRL networking party to celebrate whitelist backers and announce Ethereum minting CHARITY: 10k donation to Code.org to help students gain access to computer science'
+      textRight: 'Solana Collection sold out! IRL networking party to celebrate whitelist backers and announce Ethereum minting CHARITY: 10k donation to Code.org to help expand access to computer science for underrepresented students.'
     },
     {
       textLeft: '60%',
