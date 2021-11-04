@@ -24,11 +24,11 @@ const Config = {
   about: {
     name: 'MetaMartians',
     image: nft1,
-    text: 'MetaMartians once lived in harmony in Web2, but this harmony was short-lived. Everything changed when deciding to move to Web3 for a better future. The disagreement began on the superior blockchain to move to. The conflict split the Martians into two groups: 5,000  that supported Solana and 5,000 that supported Ethereum. After a terrible civil war, half the population was eradicated. The two groups agreed for their civilization to coexist on both blockchains. This evenly split the Martians 2,500 and 2,500 between Solana and Ethereum. By buying a MetaMartian on the Solana blockchain, you will be whitelisted to get a MetaMartian on the Ethereum blockchain in the future.'
+    text: 'MetaMartians once lived in harmony in Web2, but this harmony was short-lived. Everything changed when deciding to move to Web3 for a better future. Disagreement began on what blockchain to move to. The conflict split the Martians into two groups: 5,000  that supported Solana and 5,000 that supported Ethereum. After a terrible civil war, half the population was eradicated. The two groups agreed for their civilization to coexist on both blockchains. This evenly split the Martians 2,500 and 2,500 between Solana and Ethereum. By buying a MetaMartian on the Solana blockchain, you will be whitelisted to get a MetaMartian on the Ethereum blockchain in the future.'
   },
   story: {
     title: 'About',
-    text: 'Each MetaMartian NFT will be used as an exclusive access pass— to our community discord (unlockable content) AND irl events involving the innovations in blockchain technology, software, and coding. In the Discord, Martians will be granted access to groups that empower youth creatives, and give a platform for our founders to educate and provide tutorials. These tutorials will allow you to create your own collection, code your own contract, and ultimately create your own community. Mint a a MetaMartian and join the youth movement of creators!'
+    text: 'Each MetaMartian NFT will be used as an exclusive access pass— to our community Discord (unlockable content) AND IRL events involving the innovations in blockchain technology, software, and coding. In the Discord, Martians will be granted access to groups that empower youth creatives, and give a platform for our founders to educate and provide tutorials. These tutorials will allow you to create your own collection, code your own contract, and ultimately create your own community. Mint a MetaMartian and join the youth movement of creators!'
   },
   roadMap: [
     {
@@ -45,7 +45,7 @@ const Config = {
     },
     {
       textLeft: '40%',
-      textRight: 'Community vote on purchase of NFT collectible created by a a young entrepreneur (Discord will be loaded with information and education around the collectible— why its valuable, rarity relevances, token utility, etc)'
+      textRight: 'Community vote on purchase of NFT collectible created by a young entrepreneur (Discord will be loaded with information and education around the collectible— why its valuable, rarity relevances, token utility, etc)'
     },
     {
       textLeft: '50%',
@@ -53,11 +53,11 @@ const Config = {
     },
     {
       textLeft: '60%',
-      textRight: 'Exclusive Merch release by Cards and Culture'
+      textRight: 'Exclusive merch release by Cards and Culture'
     },
     {
       textLeft: '70%',
-      textRight: 'Community vote on purchase of a historic collectible (cryptopunks, bored ape, doodles, etc)'
+      textRight: 'Community vote on purchase of a historic collectible (Cryptopunks, Bored Ape, Degen Ape, etc)'
     },
     {
       textLeft: '80%',
