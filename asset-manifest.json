@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Solana-Mint/static/css/main.eeb161df.chunk.css",
-    "main.js": "/Solana-Mint/static/js/main.6c07bb51.chunk.js",
-    "main.js.map": "/Solana-Mint/static/js/main.6c07bb51.chunk.js.map",
+    "main.js": "/Solana-Mint/static/js/main.540d4f55.chunk.js",
+    "main.js.map": "/Solana-Mint/static/js/main.540d4f55.chunk.js.map",
     "runtime-main.js": "/Solana-Mint/static/js/runtime-main.3ff8df75.js",
     "runtime-main.js.map": "/Solana-Mint/static/js/runtime-main.3ff8df75.js.map",
     "static/css/2.29c6ae1a.chunk.css": "/Solana-Mint/static/css/2.29c6ae1a.chunk.css",
@@ -23,15 +23,15 @@
     "static/media/secondry_banner_place_holder.499c6098.gif": "/Solana-Mint/static/media/secondry_banner_place_holder.499c6098.gif",
     "static/media/team_member_1.1cf53f43.png": "/Solana-Mint/static/media/team_member_1.1cf53f43.png",
     "static/media/team_member_2.576bbcbd.png": "/Solana-Mint/static/media/team_member_2.576bbcbd.png",
-    "static/media/team_member_3.a27c4167.png": "/Solana-Mint/static/media/team_member_3.a27c4167.png",
-    "static/media/team_member_4.6866841d.png": "/Solana-Mint/static/media/team_member_4.6866841d.png",
-    "static/media/team_member_5.4f9da80c.png": "/Solana-Mint/static/media/team_member_5.4f9da80c.png"
+    "static/media/team_member_3.67c76103.png": "/Solana-Mint/static/media/team_member_3.67c76103.png",
+    "static/media/team_member_4.4d729154.png": "/Solana-Mint/static/media/team_member_4.4d729154.png",
+    "static/media/team_member_5.ede8fbdd.png": "/Solana-Mint/static/media/team_member_5.ede8fbdd.png"
   },
   "entrypoints": [
     "static/js/runtime-main.3ff8df75.js",
     "static/css/2.29c6ae1a.chunk.css",
     "static/js/2.6a3ad2d9.chunk.js",
     "static/css/main.eeb161df.chunk.css",
-    "static/js/main.6c07bb51.chunk.js"
+    "static/js/main.540d4f55.chunk.js"
   ]
 }
