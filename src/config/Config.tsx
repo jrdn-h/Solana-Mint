@@ -90,14 +90,14 @@ const Config = {
     {
       teamMemberImage: teamMember3,
       teamMemberName: "Anthony",
-      teamMemberLink: "https://www.instagram.com/anthony_ranaudo/",
+      teamMemberLink: "https://twitter.com/anthony_ranaudo/",
       teamMemberTitle: "Creative Director",
       teamMemberDescription: "Founder of Cards and Culture"
     },
     {
       teamMemberImage: teamMember4,
       teamMemberName: "Brandie",
-      teamMemberLink: "https://www.instagram.com/anthony_ranaudo/",
+      teamMemberLink: "https://twitter.com/BrandieWilks/",
       teamMemberTitle: "Creative Director",
       teamMemberDescription: "Founder of Cards and Culture"
     },
