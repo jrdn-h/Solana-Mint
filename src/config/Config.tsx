@@ -28,7 +28,7 @@ const Config = {
   },
   story: {
     title: 'About',
-    text: 'Each MetaMartian NFT will be used as an exclusive access pass— to our community Discord (unlockable content) AND IRL events involving the innovations in blockchain technology, software, and coding. In the Discord, Martians will be granted access to groups that empower youth creatives, and give a platform for our founders to educate and provide tutorials. These tutorials will allow you to create your own collection, code your own contract, and ultimately create your own community. Mint a MetaMartian and join the youth movement of creators!'
+    text: 'Each MetaMartian NFT will be used as an entrance pass— to our community Discord (unlockable content) AND IRL events involving networking, the innovations in blockchain technology, software, and coding. The project is started by two teen brothers looking to empower today’s youth to be creative and venture in entrepreneurship. In the Discord, Martians will be granted access to groups that interact with other youth creatives, and give a platform for our founders to educate and provide tutorials. These tutorials will allow you to create your own collection, code your own contract, and ultimately create your own community. Our IRL events will be centered around networking— creating a community of like-minded individuals and presenting opportunities to meet, learn from, and interact with today’s tech leaders. Mint a MetaMartian and join the youth movement of creators!'
   },
   roadMap: [
     {
