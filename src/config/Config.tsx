@@ -91,22 +91,22 @@ const Config = {
       teamMemberImage: teamMember3,
       teamMemberName: "Anthony",
       teamMemberLink: "https://twitter.com/anthony_ranaudo/",
-      teamMemberTitle: "Creative Director",
-      teamMemberDescription: "Founder of Cards and Culture"
+      teamMemberTitle: "Director of Marketing",
+      teamMemberDescription: "Co-Founder of Cards and Culture"
     },
     {
       teamMemberImage: teamMember4,
       teamMemberName: "Brandie",
       teamMemberLink: "https://twitter.com/BrandieWilks/",
-      teamMemberTitle: "Creative Director",
-      teamMemberDescription: "Founder of Cards and Culture"
+      teamMemberTitle: "Brand influencer",
+      teamMemberDescription: "Olympic Beach Volleyball athlete"
     },
     {
       teamMemberImage: teamMember5,
       teamMemberName: "Vito",
-      teamMemberLink: "https://www.instagram.com/anthony_ranaudo/",
+      teamMemberLink: "https://twitter.com/vittoriofragale",
       teamMemberTitle: "Creative Director",
-      teamMemberDescription: "Founder of Cards and Culture"
+      teamMemberDescription: "Co-Founder of Cards and Culture"
     }
   ],
   footerLinks: [
