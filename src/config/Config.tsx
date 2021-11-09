@@ -24,24 +24,24 @@ const Config = {
   about: {
     name: 'MetaMartians',
     image: nft1,
-    text: 'MetaMartians once lived in harmony in Web2, but this harmony was short-lived. Everything changed when deciding to move to Web3 for a better future. Disagreement began on what blockchain to move to. The conflict split the Martians into two groups: 5,000  that supported Solana and 5,000 that supported Ethereum. After a terrible civil war, half the population was eradicated. The two groups agreed for their civilization to coexist on both blockchains. This evenly split the Martians 2,500 and 2,500 between Solana and Ethereum. By buying a MetaMartian on the Solana blockchain, you will be whitelisted to get a MetaMartian on the Ethereum blockchain in the future.'
+    text: 'MetaMartians once lived in harmony in Web2, but this harmony was short-lived. Everything changed when deciding to move to Web3 for a better future. The disagreement began on what blockchain to move to. The conflict split the Martians into two groups: 5,000 that supported Solana and 5,000 that supported Ethereum. After a terrible civil war, half the population was eradicated. The two groups agreed for their civilization to coexist on both blockchains. This evenly split the Martians 2,500 and 2,500 between Solana and Ethereum. By buying a MetaMartian on the Solana blockchain, you will be whitelisted to get a MetaMartian on the Ethereum blockchain in the future.'
   },
   story: {
     title: 'About',
-    text: 'Each MetaMartian NFT will be used as an entrance pass— to our community Discord (unlockable content) AND IRL events involving networking, the innovations in blockchain technology, software, and coding. The project is started by two teen brothers looking to empower today’s youth to be creative and venture in entrepreneurship. In the Discord, Martians will be granted access to groups that interact with other youth creatives, and give a platform for our founders to educate and provide tutorials. These tutorials will allow you to create your own collection, code your own contract, and ultimately create your own community. Our IRL events will be centered around networking— creating a community of like-minded individuals and presenting opportunities to meet, learn from, and interact with today’s tech leaders. Mint a MetaMartian and join the youth movement of creators!'
+    text: 'Each MetaMartian NFT will be used as an entrance pass to our community Discord (unlockable content) AND IRL events involving networking, blockchain technology, software, and coding innovations. The project was started by two teen brothers looking to empower today’s youth to be creative and venture into entrepreneurship. In the Discord, Martians will be granted access to groups that interact with other youth creatives and give a platform for our founders to educate and provide tutorials. These tutorials will allow you to create your own collection, code your own contract, and ultimately create your own community. Our IRL events will be centered around networking— creating a community of like-minded individuals and presenting opportunities to meet, learn from, and interact with today’s tech leaders. Mint a MetaMartian and join the youth movement of creators!'
   },
   roadMap: [
     {
       textLeft: '10%',
-      textRight: 'Web 3.0 tutorial video release (Discord) Bonus: Generating the metadata for images in collection'
+      textRight: 'About Web 3.0 video release Bonus: Generating metadata for images in a Solana collection (Discord)'
     },
     {
       textLeft: '20%',
-      textRight: 'Candy Machine tutorial video release (Discord) Bonus: uploading the collection to the blockchain'
+      textRight: 'Metaplex Candy Machine tutorial video release on Discord (uploading the collection to the blockchain)'
     },
     {
       textLeft: '30%',
-      textRight: 'IRL networking event: location TBD Bonus: Solana landing page tutorial release (Discord)'
+      textRight: 'IRL networking event: location TBD Bonus: Connecting the Candy Machine to a landing page tutorial release (Discord)'
     },
     {
       textLeft: '40%',
@@ -49,7 +49,7 @@ const Config = {
     },
     {
       textLeft: '50%',
-      textRight: 'Solana Collection sold out! IRL networking party to celebrate whitelist backers and announce Ethereum minting CHARITY: 10k donation to Code.org to help expand access to computer science for underrepresented students.'
+      textRight: 'Solana Collection SOLD OUT! IRL networking party to celebrate whitelist backers and ANNOUNCE Ethereum minting CHARITY: 10k donation to Code.org to help expand access to computer science for underrepresented students.'
     },
     {
       textLeft: '60%',
@@ -61,7 +61,7 @@ const Config = {
     },
     {
       textLeft: '80%',
-      textRight: 'How to build a community Bonus: Generate metadata, deploy a smart contract, and create a landing page for Ethereum tutorial (Discord)'
+      textRight: 'Tutorial release on how to build a community Bonus: Generate metadata, deploy a smart contract, and create a landing page for Ethereum tutorial (Discord)'
     },
     {
       textLeft: '90%',
