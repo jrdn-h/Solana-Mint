@@ -1,6 +1,6 @@
 import mainBanner from '../images/main_banner_place_holder.png';
 import secondaryBanner from '../images/secondry_banner_place_holder.png';
-import logo from '../images/nft/logo.gif';
+import logo from '../images/nft/logo2.gif';
 import nft1 from '../images/nft/nft_sample_1.gif';
 import teamMember1 from '../images/team/team_member_1.png';
 import teamMember2 from '../images/team/team_member_2.png';
