@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Solana-Mint/static/css/main.eeb161df.chunk.css",
-    "main.js": "/Solana-Mint/static/js/main.18161fe7.chunk.js",
-    "main.js.map": "/Solana-Mint/static/js/main.18161fe7.chunk.js.map",
+    "main.js": "/Solana-Mint/static/js/main.174ea426.chunk.js",
+    "main.js.map": "/Solana-Mint/static/js/main.174ea426.chunk.js.map",
     "runtime-main.js": "/Solana-Mint/static/js/runtime-main.3ff8df75.js",
     "runtime-main.js.map": "/Solana-Mint/static/js/runtime-main.3ff8df75.js.map",
     "static/css/2.29c6ae1a.chunk.css": "/Solana-Mint/static/css/2.29c6ae1a.chunk.css",
@@ -17,7 +17,7 @@
     "static/media/Logo white.8097ca9d.svg": "/Solana-Mint/static/media/Logo white.8097ca9d.svg",
     "static/media/Medium.168f314c.png": "/Solana-Mint/static/media/Medium.168f314c.png",
     "static/media/icon_clyde_white_RGB.a4202270.svg": "/Solana-Mint/static/media/icon_clyde_white_RGB.a4202270.svg",
-    "static/media/logo.656b839c.gif": "/Solana-Mint/static/media/logo.656b839c.gif",
+    "static/media/logo2.de584e97.gif": "/Solana-Mint/static/media/logo2.de584e97.gif",
     "static/media/main_banner_place_holder.7c708c9c.png": "/Solana-Mint/static/media/main_banner_place_holder.7c708c9c.png",
     "static/media/nft_sample_1.78c472c3.gif": "/Solana-Mint/static/media/nft_sample_1.78c472c3.gif",
     "static/media/secondry_banner_place_holder.f1e7cf0c.png": "/Solana-Mint/static/media/secondry_banner_place_holder.f1e7cf0c.png",
@@ -32,6 +32,6 @@
     "static/css/2.29c6ae1a.chunk.css",
     "static/js/2.6a3ad2d9.chunk.js",
     "static/css/main.eeb161df.chunk.css",
-    "static/js/main.18161fe7.chunk.js"
+    "static/js/main.174ea426.chunk.js"
   ]
 }
