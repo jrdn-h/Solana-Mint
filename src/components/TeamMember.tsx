@@ -34,8 +34,8 @@ const TeamMember = (props: TeamMemberProps) => {
                 rel={"noreferrer"}
             >
               {props.teamMemberTitle}
-            </a>
-            , {props.teamMemberDescription}
+            </a> 
+           {props.teamMemberDescription}
           </p>
         </div>
       </Col>
