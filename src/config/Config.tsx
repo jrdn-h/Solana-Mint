@@ -76,14 +76,14 @@ const Config = {
     {
       teamMemberImage: teamMember1,
       teamMemberName: "Jordan",
-      teamMemberLink: "#",
+      teamMemberLink: "https://twitter.com/_jrdn___",
       teamMemberTitle: "Developer",
       teamMemberDescription: " 16 year-old aspiring full stack developer"
     },
     {
       teamMemberImage: teamMember2,
       teamMemberName: "Zach",
-      teamMemberLink: "#",
+      teamMemberLink: "https://twitter.com/MetaZach8",
       teamMemberTitle: "Artist",
       teamMemberDescription: " 14 year-old aspiring entrepreneur and artist"
     },
