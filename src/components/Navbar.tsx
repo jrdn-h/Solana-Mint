@@ -32,8 +32,8 @@ const NavBar = (props: NavBarProps) => {
                 <Nav.Link href="#about" className="link-style linkh">
                   Story
                 </Nav.Link>
-                <Nav.Link href="#story" className="link-style linkh">
-                  About
+                <Nav.Link href="#roadmap" className="link-style linkh">
+                  Roadmap
                 </Nav.Link>
                 <Nav.Link href="#team" className="link-style linkh">
                   Team

@@ -98,7 +98,7 @@ const Config = {
       teamMemberImage: teamMember4,
       teamMemberName: "Brandie",
       teamMemberLink: "https://twitter.com/BrandieWilks/",
-      teamMemberTitle: "Brand influencer",
+      teamMemberTitle: "Brand Influencer",
       teamMemberDescription: " Olympic Beach Volleyball athlete"
     },
     {
