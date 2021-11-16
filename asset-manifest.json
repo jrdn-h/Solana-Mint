@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.eeb161df.chunk.css",
-    "main.js": "/static/js/main.d0992cd1.chunk.js",
-    "main.js.map": "/static/js/main.d0992cd1.chunk.js.map",
+    "main.js": "/static/js/main.a7df7d78.chunk.js",
+    "main.js.map": "/static/js/main.a7df7d78.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.a812ab03.js",
     "runtime-main.js.map": "/static/js/runtime-main.a812ab03.js.map",
     "static/css/2.29c6ae1a.chunk.css": "/static/css/2.29c6ae1a.chunk.css",
@@ -17,9 +17,9 @@
     "static/media/Logo white.8097ca9d.svg": "/static/media/Logo white.8097ca9d.svg",
     "static/media/Medium.168f314c.png": "/static/media/Medium.168f314c.png",
     "static/media/icon_clyde_white_RGB.a4202270.svg": "/static/media/icon_clyde_white_RGB.a4202270.svg",
-    "static/media/logo2.de584e97.gif": "/static/media/logo2.de584e97.gif",
+    "static/media/logo2.1738d5c3.gif": "/static/media/logo2.1738d5c3.gif",
     "static/media/main_banner_place_holder.7c708c9c.png": "/static/media/main_banner_place_holder.7c708c9c.png",
-    "static/media/nft_sample_1.78c472c3.gif": "/static/media/nft_sample_1.78c472c3.gif",
+    "static/media/nft_sample_1.1738d5c3.gif": "/static/media/nft_sample_1.1738d5c3.gif",
     "static/media/secondry_banner_place_holder.f1e7cf0c.png": "/static/media/secondry_banner_place_holder.f1e7cf0c.png",
     "static/media/team_member_1.8c8530ac.png": "/static/media/team_member_1.8c8530ac.png",
     "static/media/team_member_2.114c9ac6.png": "/static/media/team_member_2.114c9ac6.png",
@@ -32,6 +32,6 @@
     "static/css/2.29c6ae1a.chunk.css",
     "static/js/2.859b702e.chunk.js",
     "static/css/main.eeb161df.chunk.css",
-    "static/js/main.d0992cd1.chunk.js"
+    "static/js/main.a7df7d78.chunk.js"
   ]
 }
