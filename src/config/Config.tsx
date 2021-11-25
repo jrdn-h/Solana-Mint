@@ -28,12 +28,12 @@ const Config = {
   },
   story: {
     title: 'About',
-    text: 'Each MetaMartian NFT will be used as an entrance pass to our community Discord (unlockable content) and IRL events involving networking, blockchain technology, software, and coding innovations. Two teen brothers started the project looking to empower today’s youth and encourage them to be creative and venture into entrepreneurship. In the Discord, Martians will be granted access to groups that interact with other youth creatives and provide a platform for our founders to educate and provide tutorials. These tutorials will allow you to create your own collection, code your own contract, and ultimately create your own community. Our IRL events will be centered around networking — creating a community of like-minded individuals and presenting opportunities to meet, learn from, and interact with today’s tech leaders. Mint a MetaMartian and join the youth movement of creators!'
+    text: 'Each MetaMartian NFT will be used as an entrance pass to our community Discord (unlockable content) and IRL events involving networking, blockchain technology, software, and coding innovations. In the Discord, MetaMartian holders will be granted a comprehensive collection of tutorials and resources on the complete process of creating a NFT project on the Solana and Ethereum blockchains.'
   },
   roadMap: [
     {
       textLeft: '10%',
-      textRight: 'About Web 3.0 video release. Bonus: Generating metadata for images in a Solana collection (Discord)'
+      textRight: 'Creating the images for a NFT collection tutorial (Discord). Bonus: Generating metadata for images in a Solana collection (Discord)'
     },
     {
       textLeft: '20%',
